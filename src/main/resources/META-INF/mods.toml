@@ -1,0 +1,25 @@
+modLoader="javafml"
+loaderVersion="[35,)"
+license="GNU General Public License version 3 (GPLv3)"
+
+[[mods]]
+modId="oaksimpleores"
+version="1.1"
+displayName="Oak's Simple Ores"
+credits="Made by Oak Bricks"
+displayURL="https://oakbricks.neocities.org"
+authors="Oak Bricks"
+description='''
+A simple ore mod for the simple folks
+'''
+
+[[dependencies.oaksimpleores]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.4]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

@@ -1,0 +1,326 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "PurpleOre",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "purple_ore"
+    },
+    {
+      "name": "PurpleOreOre",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "purple_ore_ore"
+    },
+    {
+      "name": "PurpleOreBlock",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "purple_ore_block"
+    },
+    {
+      "name": "PurpleOreOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "purple_ore_ore_block_recipe"
+    },
+    {
+      "name": "PurpleOreBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "purple_ore_block_ore_recipe"
+    },
+    {
+      "name": "PurpleOreOreSmelting",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "purple_ore_ore_smelting"
+    },
+    {
+      "name": "OakoresLoots",
+      "type": "loottable",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "oakores_loots"
+    },
+    {
+      "name": "OakoresCreativeTab",
+      "type": "tab",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "oakores_creative_tab"
+    },
+    {
+      "name": "PurpiPickaxe",
+      "type": "tool",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "purpi_pickaxe"
+    },
+    {
+      "name": "PurpiArmor",
+      "type": "armor",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "purpi_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "PurpiArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "purpi_armor_helmet_recipe"
+    },
+    {
+      "name": "PurpiArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "purpi_armor_body_recipe"
+    },
+    {
+      "name": "PurpiArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "purpi_armor_leggings_recipe"
+    },
+    {
+      "name": "PurpiArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "purpi_armor_boots_recipe"
+    },
+    {
+      "name": "PurpiAxe",
+      "type": "tool",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "purpi_axe"
+    },
+    {
+      "name": "PurpiSword",
+      "type": "tool",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "purpi_sword"
+    },
+    {
+      "name": "PurpiShovel",
+      "type": "tool",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "purpi_shovel"
+    },
+    {
+      "name": "PurpiHoe",
+      "type": "tool",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "purpi_hoe"
+    },
+    {
+      "name": "PurpiPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "purpi_pickaxe_recipe"
+    },
+    {
+      "name": "PurpiAxeRecipe",
+      "type": "recipe",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "purpi_axe_recipe"
+    },
+    {
+      "name": "PurpiSwordRecipe",
+      "type": "recipe",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "purpi_sword_recipe"
+    },
+    {
+      "name": "PurpiShovelRecipe",
+      "type": "recipe",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "purpi_shovel_recipe"
+    },
+    {
+      "name": "PurpiHoeRecipe",
+      "type": "recipe",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "purpi_hoe_recipe"
+    },
+    {
+      "name": "GreeshisDust",
+      "type": "item",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "greeshis_dust"
+    },
+    {
+      "name": "GreeshisOre",
+      "type": "block",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "greeshis_ore"
+    },
+    {
+      "name": "GreeshisBlock",
+      "type": "block",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "greeshis_block"
+    },
+    {
+      "name": "GreeshisOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "greeshis_ore_block_recipe"
+    },
+    {
+      "name": "GreeshisBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "greeshis_block_ore_recipe"
+    },
+    {
+      "name": "GreeshisOreSmelting",
+      "type": "recipe",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "greeshis_ore_smelting"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.oaksimpleores.purpi_sword": "Purpi Sword",
+      "item.oakores.purpi_hoe": "Purpi Hoe",
+      "item.oaksimpleores.purple_ore": "Purpi Gem",
+      "item.oaksimpleores.purpi_armor_leggings": "Purpi Leggings",
+      "block.oakores.purple_ore_ore": "Purpi Ore",
+      "item.oakores.purple_ore": "Purpi Gem",
+      "block.oaksimpleores.greeshis_block": "Block of Greeshis",
+      "item.oakores.purpi_armor_chestplate": "Purpi Chestplate",
+      "item.oakores.purpi_sword": "Purpi Sword",
+      "block.oaksimpleores.greeshis_ore": "Greeshis Ore",
+      "item.oakores.purpi_shovel": "Purpi Shovel",
+      "item.oaksimpleores.purpi_armor_chestplate": "Purpi Chestplate",
+      "item.oakores.purpi_axe": "Purpi Axe",
+      "block.oaksimpleores.purple_ore_block": "Block of Purpi",
+      "item.oaksimpleores.purpi_armor_helmet": "Purpi Helmet",
+      "item.oaksimpleores.purpi_hoe": "Purpi Hoe",
+      "item.oakores.purpi_pickaxe": "Purpi Pickaxe",
+      "block.oakores.purple_ore_block": "Block of Purpi",
+      "block.oaksimpleores.purple_ore_ore": "Purpi Ore",
+      "item.oaksimpleores.greeshis_dust": "Greeshis",
+      "itemGroup.taboakores_creative_tab": "OakOres",
+      "item.oaksimpleores.purpi_shovel": "Purpi Shovel",
+      "item.oaksimpleores.purpi_armor_boots": "Purpi Boots",
+      "item.oaksimpleores.purpi_axe": "Purpi Axe",
+      "item.oakores.purpi_armor_boots": "Purpi Boots",
+      "item.oaksimpleores.purpi_pickaxe": "Purpi Pickaxe",
+      "item.oakores.purpi_armor_leggings": "Purpi Leggings",
+      "item.oakores.purpi_armor_helmet": "Purpi Helmet"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "oaksimpleores",
+    "modName": "Oak\u0027s Simple Ores",
+    "version": "1.1",
+    "description": "A simple ore mod for the simple folks",
+    "author": "Oak Bricks",
+    "websiteURL": "https://oakbricks.neocities.org",
+    "license": "GNU General Public License version 3 (GPLv3)",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.4",
+    "credits": "Made by Oak Bricks",
+    "modElementsPackage": "com.oakbricks.oakores",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100103117
+}

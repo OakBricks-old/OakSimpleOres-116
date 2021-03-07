@@ -1,0 +1,12 @@
+{
+  "group": "oaksimpleores",
+  "type": "minecraft:smelting",
+  "experience": 0.7,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "oaksimpleores:purple_ore_ore"
+  },
+  "result": {
+    "item": "oaksimpleores:purple_ore"
+  }
+}

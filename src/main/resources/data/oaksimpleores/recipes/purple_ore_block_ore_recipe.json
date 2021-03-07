@@ -1,0 +1,13 @@
+{
+  "group": "oaksimpleores",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "oaksimpleores:purple_ore_block"
+    }
+  ],
+  "result": {
+    "item": "oaksimpleores:purple_ore",
+    "count": 9
+  }
+}

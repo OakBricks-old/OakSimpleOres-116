@@ -1,0 +1,12 @@
+{
+  "group": "oaksimpleores",
+  "type": "minecraft:smelting",
+  "experience": 1.75,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "oaksimpleores:greeshis_ore"
+  },
+  "result": {
+    "item": "oaksimpleores:greeshis_dust"
+  }
+}

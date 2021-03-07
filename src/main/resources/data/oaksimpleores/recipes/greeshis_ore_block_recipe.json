@@ -1,0 +1,42 @@
+{
+  "group": "oaksimpleores",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "oaksimpleores:greeshis_dust"
+    },
+    "1": {
+      "item": "oaksimpleores:greeshis_dust"
+    },
+    "2": {
+      "item": "oaksimpleores:greeshis_dust"
+    },
+    "3": {
+      "item": "oaksimpleores:greeshis_dust"
+    },
+    "4": {
+      "item": "oaksimpleores:greeshis_dust"
+    },
+    "5": {
+      "item": "oaksimpleores:greeshis_dust"
+    },
+    "6": {
+      "item": "oaksimpleores:greeshis_dust"
+    },
+    "7": {
+      "item": "oaksimpleores:greeshis_dust"
+    },
+    "8": {
+      "item": "oaksimpleores:greeshis_dust"
+    }
+  },
+  "result": {
+    "item": "oaksimpleores:greeshis_block",
+    "count": 1
+  }
+}

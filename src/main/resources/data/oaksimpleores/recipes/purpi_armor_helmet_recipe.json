@@ -1,0 +1,29 @@
+{
+  "group": "oaksimpleores",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "oaksimpleores:purple_ore"
+    },
+    "1": {
+      "item": "oaksimpleores:purple_ore"
+    },
+    "2": {
+      "item": "oaksimpleores:purple_ore"
+    },
+    "3": {
+      "item": "oaksimpleores:purple_ore"
+    },
+    "5": {
+      "item": "oaksimpleores:purple_ore"
+    }
+  },
+  "result": {
+    "item": "oaksimpleores:purpi_armor_helmet",
+    "count": 1
+  }
+}

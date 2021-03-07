@@ -1,0 +1,13 @@
+{
+  "group": "oaksimpleores",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "oaksimpleores:greeshis_block"
+    }
+  ],
+  "result": {
+    "item": "oaksimpleores:greeshis_dust",
+    "count": 9
+  }
+}
