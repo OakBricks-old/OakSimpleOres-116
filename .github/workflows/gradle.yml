@@ -5,9 +5,9 @@ name: Fabric
 
 on:
   push:
-    branches: [ master ]
+    branches: [ fabric ]
   pull_request:
-    branches: [ master ]
+    branches: [ fabric ]
 
 jobs:
   build:
